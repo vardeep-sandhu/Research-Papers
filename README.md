@@ -8,10 +8,13 @@ These are the initial resources from [PV-RCNN: Point-Voxel Feature Set Abstracti
 
 ### 1. Grid based methods/Voxel based methods
 - [ ]  [Deep sliding shapes for amodal 3d object detection in rgb-d images](https://arxiv.org/abs/1511.02300#)
-- [ ]  [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://arxiv.org/abs/1711.06396)
+
+![50%](https://progress-bar.dev/10) [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://arxiv.org/abs/1711.06396)
 - [ ]  [Second: Sparsely embedded convolutional detection. Sensors](https://www.mdpi.com/1424-8220/18/10/3337)
 - [ ]  [Fast Point R-CNN](https://arxiv.org/abs/1908.02990)
 - [ ]  [From points to parts: 3d object detection from point cloud with part-aware and part-aggregation network](https://arxiv.org/abs/1908.02990)
+
+
 <!-- - [ ]   -->
 ### 2. Point based methods:
 - [ ] [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593)
